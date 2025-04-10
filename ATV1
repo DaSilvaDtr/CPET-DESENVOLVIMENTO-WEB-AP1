@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acompanhamento do Curso - João da Terra</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; background-color: #f4f4f4; }
+        h1 { color: #2c3e50; }
+        section { background: white; padding: 15px; border-radius: 8px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Bem-vindo ao Acompanhamento de Curso</h1>
+    <section>
+        <h2>Nome do Aluno:</h2>
+        <p>João da Terra</p>
+    </section>
+    <section>
+        <h2>Curso:</h2>
+        <p>Desenvolvimento de Sistemas - CPET</p>
+    </section>
+    <section>
+        <h2>Progresso:</h2>
+        <ul>
+            <li>Módulo 1 - ✅ Concluído</li>
+            <li>Módulo 2 - ✅ Concluído</li>
+            <li>Módulo 3 - 🔄 Em andamento</li>
+        </ul>
+    </section>
+    <footer>
+        <p>Site responsivo - Desenvolvido por Marcos | Empresa XYZ</p>
+    </footer>
+</body>
+</html>
